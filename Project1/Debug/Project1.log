@@ -1,0 +1,4 @@
+﻿  源.c
+E:\vs2019\content\Project1\源.c(116,10): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+E:\vs2019\content\Project1\源.c(116,10): message : 请考虑在格式字符串中使用“%lf”
+  Project1.vcxproj -> E:\vs2019\content\Project1\Debug\Project1.exe
